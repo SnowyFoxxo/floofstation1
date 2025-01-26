@@ -4,7 +4,7 @@
 
 ---
 
-Floof Station is a whitelist-only 18+ Medium Roleplay furry-oriented SS14 server, with ERP enabled. Anybody interested in checking us out or joining us, can apply for membership in our Discord linked down below.
+Floof Station is a whitelist-only 18+ Medium Roleplay furry-oriented server (ERP enabled), of the game [Space Station 14](https://spacestation14.com/). Anybody interested in checking us out or joining us, can apply for membership in our Discord linked down below.
 
 Floof Station is a relaxing environment offering slow-paced, admin-driven events where members can develop their stories. The focus is on building meaningful interpersonal relationships, from friendships to romantic connections. This includes erotic roleplay, allowing members to explore and bring their wildest fantasies to life, all within a framework of mutual respect and consent.
 
@@ -25,7 +25,7 @@ We got a [list of issues](https://github.com/Fansana/floofstation1/issues) that 
 
 ## Building
 
-Refer to [the Space Wizards' guide](https://docs.spacestation14.com/en/general-development/setup/setting-up-a-development-environment.html) on setting up a development environment for general information. But keep in mind that Einstein Engines, the codebase Floof Station is based on, is not the same, and many things may not apply.
+Refer to [the Space Wizards' guide](https://docs.spacestation14.com/en/general-development/setup/setting-up-a-development-environment.html) on setting up a development environment and for general information. But do keep in mind that Einstein Engines, the codebase Floof Station is based on, is an alternative codebase to the base one provided by WizDen, and many things may thus not apply nor be the same.
 We provide some scripts shown below to make the job easier.
 
 ### Build dependencies
